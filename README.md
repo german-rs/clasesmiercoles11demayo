@@ -16,11 +16,10 @@
 6. En cada case de la instrucción *switch* deberá llamar a los métodos de la clase **Ejercicio**.
 7. En la clase **BodegaEjercicio** deberá crear una pila (stack) con el nombre **PRODUCTOS** e inicializar está con algunos valores en el constructor de la clase.
 8. La clase **Ejercicio** será una sub-clase de **BodegaEjercicio**, es decir que deberá hacer una herencia entre clases. 
-9. En la clase **Ejercicio** deberá realizar las operaciones correspondientes a cada método:
-
-  10. En el método **agregarProducto** deberá añadir elementos por medio del teclado solicitando además al usuario la cantidad máxima de elementos a añadir (utilice bucle *for*).
-  11. En el método **verProducto**, si la pila tiene elementos deberá desplegarlos, en caso contrario mostrar un mensaje que especifique que no existen elementos.
-  12. En el método **buscarProducto** deberá retornar con un mensaje si existe o no el elemento solicitado.
-  13. En el método **eliminarProducto** deberá dar la opción de extraer el último elemento o eliminar todos, en caso de elegir este último, utilice un bucle *while* para realizar esta operación. 
+> _En la clase **Ejercicio** deberá realizar las operaciones correspondientes a cada método:_
+10. En el método **agregarProducto** deberá añadir elementos por medio del teclado solicitando además al usuario la cantidad máxima de elementos a añadir (utilice bucle *for*).
+11. En el método **verProducto**, si la pila tiene elementos deberá desplegarlos, en caso contrario mostrar un mensaje que especifique que no existen elementos.
+12. En el método **buscarProducto** deberá retornar con un mensaje si existe o no el elemento solicitado.
+13. En el método **eliminarProducto** deberá dar la opción de extraer el último elemento o eliminar todos, en caso de elegir este último, utilice un bucle *while* para realizar esta operación. 
 
 
